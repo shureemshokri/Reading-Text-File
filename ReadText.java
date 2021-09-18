@@ -1,5 +1,5 @@
 
-package readmyletter_17203199;
+package ReadText;
 
 import java.io.File;
 import java.io.FileNotFoundException;
@@ -9,7 +9,7 @@ import java.util.Scanner;
 
 
 
-public class ReadMyLetter_17203199 {
+public class ReadText {
 
       public static void main(String[] args) {
           
